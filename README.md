@@ -12,7 +12,7 @@ You are a junior developer working for a smart home technology company. Your tas
 
 ### Tools and Resources
 
-- Visual Studio Code)
+- Visual Studio Code
 - Node.js 
 
 ### Instructions
