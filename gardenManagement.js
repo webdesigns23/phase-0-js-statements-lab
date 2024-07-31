@@ -1,31 +1,4 @@
 // Write your code here
-let soilMoisture = 30;
-let isRaining = false;
-let wateringStatus = 'off';
-let timeOfDay = "morning";
-let lightStatus = "off";
-
-function controlWatering() {
-  if (soilMoisture < 40 && !isRaining) {
-    wateringStatus = "on";
-  } else {
-    wateringStatus = "off";
-  }
-}
-
-function controlLights() {
-  if (timeOfDay === "evening" || timeOfDay === "night") {
-    lightStatus = "on";
-  } else {
-    lightStatus = "off";
-  }
-}
-
-function adjustSoilMoisture() {
-  while (wateringStatus === "on" && soilMoisture < 40) {
-    soilMoisture += 5;
-  }
-}
 
 
 
