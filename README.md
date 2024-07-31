@@ -12,13 +12,13 @@ You are a junior developer working for a smart home technology company. Your tas
 
 ### Tools and Resources
 
-- Code Editor (e.g., Visual Studio Code)
-- Node.js and npm installed
+- Visual Studio Code)
+- Node.js 
 
 ### Instructions
 
 1. **Fork and Clone the Repository:**
-   - Fork the provided GitHub repository.
+   - Fork the provided GitHub repository. https://github.com/learn-co-curriculum/phase-0-js-statements-lab.git
    - Clone the forked repository to your local machine.
 
 2. **Install Dependencies:**
