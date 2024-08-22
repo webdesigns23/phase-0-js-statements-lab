@@ -53,4 +53,4 @@ You are a junior developer working for a smart home technology company. Your tas
    - Console log the value of `soilMoisture` at each step, and when it reaches 40, console log `40`.
 
    **Garden Tasks Loop:**
-   - Use a traditional `for` loop to iterate over the `gardenTasks` array and console log each task.
+   - Use a `for` loop to iterate over the `gardenTasks` array and console log each task.
