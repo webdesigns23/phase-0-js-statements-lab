@@ -51,6 +51,3 @@ You are a junior developer working for a smart home technology company. Your tas
    **Soil Moisture Adjustment:**
    - Use a `while` loop to increment the value of `soilMoisture` by 5 until it reaches 40.
    - Console log the value of `soilMoisture` at each step, and when it reaches 40, console log `40`.
-
-   **Garden Tasks Loop:**
-   - Use a `for` loop to iterate over the `gardenTasks` array and console log each task.
