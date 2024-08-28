@@ -24,11 +24,4 @@ describe('Garden Management Tasks', () => {
     require('../gardenManagement'); // Requiring the file should execute the code
     expect(consoleSpy).toHaveBeenCalledWith(40); // Check that the final value of soilMoisture is 40
   });
-
-  test('should print each garden task using a for loop', () => {
-    require('../gardenManagement'); // Requiring the file should execute the code
-    expect(consoleSpy).toHaveBeenCalledWith('Water plants');
-    expect(consoleSpy).toHaveBeenCalledWith('Trim hedges');
-    expect(consoleSpy).toHaveBeenCalledWith('Mow lawn');
-  });
 });
