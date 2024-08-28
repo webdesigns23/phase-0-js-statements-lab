@@ -30,7 +30,6 @@ You are a junior developer working for a smart home technology company. Your tas
      - `const temperature = 90;`
      - `const timeOfDay = "morning";`
      - `let soilMoisture = 30;`
-     - `const gardenTasks = ["Water plants", "Trim hedges", "Mow lawn"];`
 
 4. **Run Tests:**
    - Run `npm test` to execute the tests and see that all tests are currently failing.
